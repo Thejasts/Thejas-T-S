@@ -1,18 +1,58 @@
-# 💫 About Me:
-BE Engineering (AIML)
+# Hey, I'm Thejas T S 👋
 
+📍 Chennai, India  ·  🎓 B.E. AI & ML Engineering
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thejasts) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Thejas  T S) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Thejas  T S) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Gyan tecno) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thejasts10@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Thejasts&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Thejasts&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thejasts&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+> ⚡ *Building intelligent systems, one model at a time*
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Thejasts&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🙋‍♂️ About Me
+
+I'm an AI/ML engineering student passionate about building real-world intelligent applications. Currently exploring deep learning, NLP, and full-stack development.
+
+- 🔭 Working on **skill gap analysis** & AI-based tools
+- 🌱 Learning **deep learning, transformers & MLOps**
+- 💬 Ask me about **Python, ML pipelines, or DBMS**
+- 🤝 Open to collaborations on AI/ML projects
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🌉 [Skill Bridge](https://github.com/Thejasts/skill_bridge-)
+> DBMS-based skill gap analysis platform — identifies missing skills and bridges the gap between current abilities and industry needs.
+
+### 📝 [Notes App](https://github.com/Thejasts/notes_app)
+> A clean, JavaScript-powered notes application with a simple and intuitive UI.
+
+---
+
+## 📊 GitHub Stats
+
+![Thejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thejasts&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thejasts&layout=compact&theme=default&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HERE)
+
+---
+
+⭐ *If you find my projects interesting, feel free to star them!*
