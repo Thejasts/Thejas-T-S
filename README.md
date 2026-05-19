@@ -1,6 +1,6 @@
 # Hey, I'm Thejas T S 👋
 
-📍 Chennai, India  ·  🎓 B.E. AI & ML Engineering
+🎓 B.E. AI & ML Engineering
 
 > ⚡ *Building intelligent systems, one model at a time*
 
@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm an AI/ML engineering student passionate about building real-world intelligent applications. Currently exploring deep learning, NLP, and full-stack development.
+I'm an AI/ML engineering student passionate about building real-world intelligent applications. Currently exploring deep learning and full-stack development.
 
 - 🔭 Working on **skill gap analysis** & AI-based tools
 - 🌱 Learning **deep learning, transformers & MLOps**
@@ -49,9 +49,9 @@ I'm an AI/ML engineering student passionate about building real-world intelligen
 
 ## 🤝 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HERE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thejasts100@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/thejas-t-s-613271331?trk=nav_responsive_tab_profile_pic&originalSubdomain=in))
+
 
 ---
 
